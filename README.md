@@ -1,4 +1,15 @@
-# 🛒 E-Commerce Customer Churn Analysis (MySQL Capstone Project)
+# 🛒 E-Commerce Customer Churn Analysis 
+
+## Table of Contents
+- Project Overview
+- Problem Statement
+- Dataset
+- Tools & Technologies Used
+- Data Cleaning
+- Data Transformation
+- Key Metrics
+- Insights
+- How to Run
 
 ## 📌 Project Overview
 Customer churn is a critical problem in the e-commerce industry, where retaining customers is far more cost-effective than acquiring new ones.  
