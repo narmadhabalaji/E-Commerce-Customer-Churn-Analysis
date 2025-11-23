@@ -170,12 +170,8 @@ Dataset was provided as part of the capstone project.
 ## ▶️ How to Run the Project
 
 1. Install MySQL Workbench 8.0 (or compatible SQL environment)
-2. Create a database:
-
-   ```sql
-   CREATE DATABASE ecomm;
-3. Import the provided SQL file ([E-Commerce Customer Churn Analysis](https://github.com/narmadhabalaji/customer-churn-analysis/blob/main/E-Commerce%20Customer%20Churn%20Analysis.sql))
-4. Run the query blocks step-by-step
+2. Import the provided SQL file ([E-Commerce Customer Churn Analysis](https://github.com/narmadhabalaji/customer-churn-analysis/blob/main/E-Commerce%20Customer%20Churn%20Analysis.sql))
+3. Run the query blocks step-by-step
 
 ---
 
